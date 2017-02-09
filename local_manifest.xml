@@ -3,7 +3,7 @@
 <remote name="github"
 fetch="git://github.com/" />
 
-<project path="device/samsung/cooperve" name="androidarmv6/android_device_samsung_cooperve" remote="github" revision="cm-11.0" />
+<project path="device/samsung/cooperve" name="kihope/aosp_device_samsung_cooperve" remote="github" revision="master" />
 <project path="kernel/samsung" name="androidarmv6/android_kernel_samsung_bcm21553-common" remote="github" revision="cm-11.0" />
 <project path="vendor/samsung" name="androidarmv6/android_vendor_samsung" remote="github" revision="cm-11.0" />
 <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" remote="github" revision="cm-11.0" />
