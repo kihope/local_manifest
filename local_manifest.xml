@@ -11,5 +11,6 @@ fetch="git://github.com/" />
 <project path="device/samsung/bcm21553-common" name="androidarmv6/android_device_samsung_bcm21553-common" remote="github" revision="cm-11.0" />
 <project path="vendor/google" name="androidarmv6/android_vendor_google" remote="github" revision="cm-11.0" />
 <project path="bionic" name="androidarmv6/android_bionic" remote="github" revision="cm-11.0" />
+<project path="frameworks/webview" name="androidarmv6/android_frameworks_webviewc" remote="github" revision="cm-11.0" />
 
 </manifest>
